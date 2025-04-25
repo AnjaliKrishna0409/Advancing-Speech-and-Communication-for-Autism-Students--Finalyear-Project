@@ -1,6 +1,7 @@
 # Advancing-Speech-and-Communication-for-Autism-Students
 
-UnderDevelopment
+#Video
+<video src="autism_vid (1) test 3.mp4" width="320" height="240" controls>
 
 ## Front page
 ![image](https://github.com/user-attachments/assets/3a0b7091-3050-479d-acb8-d713bf200d83)
